@@ -1,0 +1,6 @@
+{
+  "name": "JNE Sub-Agent",
+  "description": "Logistics and shipping management app for JNE Saudi Sub-Agents (Kareem Ghanem)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
